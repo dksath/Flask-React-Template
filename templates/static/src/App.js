@@ -1,5 +1,4 @@
-import React, { Component } from 'react'
-
+import './App.css';
 
 function Header() {
   return (
@@ -17,7 +16,7 @@ function Body() {
   return (
     <div className='Body'> 
       <p>
-        Test
+        LMAO
       </p>
     </div>
   )
