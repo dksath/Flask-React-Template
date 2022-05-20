@@ -1,0 +1,32 @@
+.App {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Header {
+    height: 40px;
+    background-color: deepskyblue;
+    padding: 35px;
+    font-size: calc(10px + 2vmin);
+  }
+  
+  .Body {
+    min-height: 100vh;
+    background-color: white;
+    padding: 35px;
+  }
+  
+  .Footer {
+    min-height: 20px;
+    background-color: deepskyblue;
+    padding: 20px;
+    font-size: 2vmin;
+  }
+  
+  .Link {
+    color: deepskyblue;
+  }
+  
+  .Link-light {
+    color: white;
+   }
